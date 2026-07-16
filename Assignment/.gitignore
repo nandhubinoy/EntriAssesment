@@ -1,0 +1,29 @@
+C/C++ Windows Executables & Build Files (MSVC)
+
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.dll
+*.lib
+
+GCC Compiled objects
+
+*.o
+*.out
+*.a
+
+Embedded Systems Outputs (AVR / STM32)
+
+*.hex
+*.elf
+*.bin
+*.map
+*.lst
+
+IDE and OS specific files
+
+.vscode/
+.vs/
+.DS_Store
