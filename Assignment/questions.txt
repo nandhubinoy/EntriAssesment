@@ -1,8 +1,0 @@
-1) Create an array of size 'n', and find the 2nd largest element in that array.
-2) Print the upward pyramid pattern using *
-   *
-  ***
- *****
-*******
-3) Write a c code with 3 functions to set a bit, clear a bit, and toggle a bit. 
-    then set the 3rd bit, clear the 5th bit and toggle the 2nd bit.
