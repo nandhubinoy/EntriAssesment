@@ -5,26 +5,34 @@
 #include <stdlib.h>
 #include <limits.h>
 
-int findSecondLargest(int arr[], int size) {
+int findSecondLargest(int arr[], int size) 
+{
     if (size < 2) return -1; // Or handle as an error
 
     int first, second;
 
     // Initialize based on the first two elements
-    if (arr[0] > arr[1]) {
+    if (arr[0] > arr[1]) 
+    {
         first = arr[0];
         second = arr[1];
-    } else {
+    } 
+    else 
+    {
         first = arr[1];
         second = arr[0];
     }
 
     // Start loop from the third element
     for (int i = 2; i < size; i++) {
-        if (arr[i] > first) {
+        if (arr[i] > first) 
+        {
             second = first;
             first = arr[i];
-        } else if (arr[i] > second && arr[i] != first) {
+        } 
+        else 
+        if (arr[i] > second && arr[i] != first) 
+        {
             second = arr[i];
         }
     }
