@@ -1,0 +1,1 @@
+C:\PROGRA~2\Atmel\Studio\7.0\TOOLCH~1\avr8\AVR8-G~1\bin\AVR-G_~1.EXE -mmcu=atmega328p -DF_CPU=16000000UL -Os -Wall -std=c++11 CMakeFiles/12_counter_LCD.elf.dir/src/main.cpp.obj CMakeFiles/12_counter_LCD.elf.dir/src/lcd.cpp.obj -o 12_counter_LCD.elf

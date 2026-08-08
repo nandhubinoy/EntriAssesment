@@ -1,0 +1,5 @@
+D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/CMakeFiles/ultrasonicObjectTracker.elf.dir
+D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/CMakeFiles/hex.dir
+D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/CMakeFiles/flash.dir
+D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/CMakeFiles/edit_cache.dir
+D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/CMakeFiles/rebuild_cache.dir
