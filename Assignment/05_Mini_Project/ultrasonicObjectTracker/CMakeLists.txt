@@ -15,10 +15,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 #add_compile_options(-Wall -Wextra -Werror -Wconversion -Wshadow)
 
 set(SOURCE_FILES
-    src/main.cpp
-    src/uart.cpp
-    src/timer.cpp
-    src/adc.cpp
+    src/main.c
+    src/uart.c
+    src/timer.c
+    src/adc.c
+    src/tracker.c
 )
 
 add_executable(ultrasonicObjectTracker.elf ${SOURCE_FILES})
@@ -26,7 +27,7 @@ target_include_directories(ultrasonicObjectTracker.elf PRIVATE ${CMAKE_CURRENT_S
 
 # Print flash/SRAM usage after every build
 add_custom_command(TARGET ${PROJECT_NAME}.elf POST_BUILD
-    COMMAND ${AVR_SIZE} --mcu=${AVR_MCU} --format=avr $<TARGET_FILE:${PROJECT_NAME}.elf>
+    COMMAND ${AVR_SIZE} $<TARGET_FILE:${PROJECT_NAME}.elf>
     COMMENT "Firmware size (flash/SRAM):"
 )
 

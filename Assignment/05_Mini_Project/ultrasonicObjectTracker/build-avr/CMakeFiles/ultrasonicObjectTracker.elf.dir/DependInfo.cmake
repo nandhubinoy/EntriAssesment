@@ -8,10 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/adc.cpp" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/adc.cpp.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/adc.cpp.obj.d"
-  "D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/main.cpp" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/main.cpp.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/main.cpp.obj.d"
-  "D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/timer.cpp" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/timer.cpp.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/timer.cpp.obj.d"
-  "D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/uart.cpp" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/uart.cpp.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/uart.cpp.obj.d"
+  "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/adc.c" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/adc.c.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/adc.c.obj.d"
+  "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/main.c" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/main.c.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/main.c.obj.d"
+  "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/timer.c" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/timer.c.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/timer.c.obj.d"
+  "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/tracker.c" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/tracker.c.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/tracker.c.obj.d"
+  "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/src/uart.c" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/uart.c.obj" "gcc" "CMakeFiles/ultrasonicObjectTracker.elf.dir/src/uart.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

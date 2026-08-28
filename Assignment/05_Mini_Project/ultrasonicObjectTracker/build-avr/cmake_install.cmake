@@ -1,4 +1,4 @@
-# Install script for directory: D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker
+# Install script for directory: D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,13 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Program Files (x86)/Atmel/Studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/avr-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Program Files (x86)/avr-gcc/avr-gcc-16.1.0-x64-windows/bin/avr-objdump.exe")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/install_local_manifest.txt"
+  file(WRITE "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -56,6 +56,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/NANDHU/myCode/Entri/github/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/03_Projects/NANDHU/myCode/Entri/Githubrepo/EntriAssesment/Assignment/05_Mini_Project/ultrasonicObjectTracker/build-avr/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

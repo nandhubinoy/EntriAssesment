@@ -3,7 +3,7 @@
 
 **Version:** 1.0
 **Target Hardware:** Arduino UNO (ATmega328P), bare-metal AVR
-**Author:** [Your Name]
+**Author:** Nandhu Binoy
 **Course:** Entri Elevate — Embedded Software Engineering, Mini Project
 
 ---
