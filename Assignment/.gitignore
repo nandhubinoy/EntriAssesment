@@ -27,3 +27,13 @@ IDE and OS specific files
 .vscode/
 .vs/
 .DS_Store
+
+# Atmel / Microchip Studio Specific
+Debug/
+Release/
+*.eep
+*.srec
+*.d
+*.lss
+*.componentinfo.xml
+makedep.mk
